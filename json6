@@ -1,0 +1,8 @@
+{
+  "alerta_id": "SEC-emergency",
+  "gravedad": "CRITICAL",
+  "descripcion": "Intento de acceso no autorizado detectado",
+  "ubicacion": "DataCenter-B",
+  "protocolo": "SSH",
+  "bloqueado": true
+}
