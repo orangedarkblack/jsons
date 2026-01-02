@@ -1,0 +1,9 @@
+{
+  "almacen": "Norte-01",
+  "categoria": "Electrónica",
+  "items": [
+    {"nombre": "Monitor 24p", "stock": 15, "reorden": true},
+    {"nombre": "Teclado RGB", "stock": 50, "reorden": false}
+  ],
+  "ultima_auditoria": "2026-01-01"
+}
