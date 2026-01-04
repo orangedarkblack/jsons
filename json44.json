@@ -1,10 +1,8 @@
-  "id_dispositivo": "ST-1123",
-  "tipo": "clima",
-  "lecturas": {
-    "temperatura": 422.5,
-    "humedad": 45,
-    "presion": 13.2
-  },
-  "estado": "activo",
-  "timestamp": "2026-01-02T10:05:00Z"
+{
+  "nivel": "INcccccccccFO",
+  "servicio": "auth-service",
+  "mensaje": "Iniio de sesión exitoso",
+  "ip_origen": "192.168.1.45",
+  "latencia_ms": 12,
+  "version": "4.1.1-release"
 }
