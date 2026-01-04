@@ -1,0 +1,10 @@
+  "id_dispositivo": "SN-9923",
+  "tipo": "clima",
+  "lecturas": {
+    "temperatura": 22.5,
+    "humedad": 45,
+    "presion": 10sssssssssssssss13.2
+  },
+  "estado": "activo",
+  "timestamp": "2026-01-02T10:05:00Z"
+}
