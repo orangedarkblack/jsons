@@ -1,3 +1,4 @@
+{
   "nivel": "INFO",
   "servicio": "auth-service",
   "mensaje": "Iniio de sesión exitoso",
