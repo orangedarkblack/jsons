@@ -2,7 +2,7 @@
   "id_dispositivo": "SN-9823",
   "tipo": "clima",
   "lecturas": {
-    "temperatura": 28.5,
+    "temperatura": 98.5,
     "humedad": 45,
     "presion": 1000003.2
   },
