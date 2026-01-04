@@ -1,0 +1,11 @@
+{
+  "id": 101,
+  "evento": "registro_usuario",
+  "datos": {
+    "nombre": "Elensa Rossi",
+    "email": "elena.rossi@example.com",
+    "plan": "Premium",
+    "pais": "Argentina"
+  },
+  "timestamp": "2026-01-02T10:00:00Z"
+}
