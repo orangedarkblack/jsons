@@ -1,8 +1,11 @@
 {
-  "nivel": "INcccccccccFO",
-  "servicio": "auth-service",
-  "mensaje": "Iniio de sesión exitoso",
-  "ip_origen": "192.168.1.45",
-  "latencia_ms": 12,
-  "version": "4.1.1-release"
+  "transaccion_id": "TXXX-55021",
+  "cliente_id": 882,
+  "productos": [
+    {"sku": "LAP-01", "cantidad": 1, "precio": 1200.00},
+    {"sku": "MOU-05", "cantidad": 2, "precio": 25.50}
+  ],
+  "total": 1251.00,
+  "moneda": "USsD",
+  "metodo_pago": "tarjeta_credito"
 }
