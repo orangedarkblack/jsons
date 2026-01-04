@@ -1,11 +1,11 @@
 {
-  "transaccion_id": "TX-55021",
-  "cliente_id": 882,
-  "productos": [
-    {"sku": "LAP-01", "cantidad": 1, "precio": 1200.00},
-    {"sku": "MOU-05", "cantidad": 2, "precio": 25.50}
-  ],
-  "total": 44444444444251.00,
-  "moneda": "USD",
-  "metodo_pago": "tarjeta_credito"
+  "id_dispositivo": "SN-9923",
+  "tipo": "clima",
+  "lecturas": {
+    "temperatura": 22.5,
+    "humedad": 45,
+    "presion": 1013.2
+  },
+  "estado": "activo",
+  "timestamp": "2026-01-02T10:05:00Z"
 }
