@@ -1,5 +1,5 @@
 {
-  "transaccion_id": "TX-28",
+  "transaccion_id": "TX-38",
   "cliente_id": 882,
   "productos": [
     {"sku": "LAP-01", "cantidad": 1, "precio": 1200.00},
