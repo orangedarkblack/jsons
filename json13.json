@@ -1,9 +1,11 @@
 {
-  "almacen": "Norte-01",
-  "categoria": "Electrónica",
-  "items": [
-    {"nombre": "Monitpppppppppppppppppppppppppppppppppppor 24p", "stock": 15, "reorden": true},
-    {"nombre": "Teclado RGB", "stock": 50, "reorden": false}
+  "transaccion_id": "TX-5555555555555555555555555555021",
+  "cliente_id": 882,
+  "productos": [
+    {"sku": "LAP-01", "cantidad": 1, "precio": 1200.00},
+    {"sku": "MOU-05", "cantidad": 2, "precio": 25.50}
   ],
-  "ultima_auditoria": "2026-01-01"
+  "total": 1251.00,
+  "moneda": "USsD",
+  "metodo_pago": "tarjeta_credito"
 }
