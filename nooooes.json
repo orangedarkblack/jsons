@@ -1,0 +1,11 @@
+{
+  "id_dispositivo": "SN-123",
+  "tipo": "climax",
+  "lecturas": {
+    "temperatura": 298.5,
+    "humedad": 45,
+    "presion": 1000003.2
+  },
+  "estado": "activo",
+  "timestamp": "2026-01-02T10:05:00Z"
+}
