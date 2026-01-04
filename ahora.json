@@ -4,7 +4,4 @@
     "temperatura": 2442.5,
     "humedad": 45,
     "presion": 1013.2
-  },
-  "estado": "activo",
-  "timestamp": "2026-01-02T10:05:00Z"
-}
+  }
