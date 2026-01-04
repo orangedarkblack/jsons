@@ -1,0 +1,11 @@
+{
+  "transaccion_id": "TX-54021",
+  "cliente_id": 1082,
+  "productos": [
+    {"sku": "LAP-01", "cantidad": 1, "precio": 1200.00},
+    {"sku": "MOU-05", "cantidad": 2, "precio": 25.50}
+  ],
+  "total": 1251.00,
+  "moneda": "USD",
+  "metodo_pago": "tarjeta_credito"
+}
