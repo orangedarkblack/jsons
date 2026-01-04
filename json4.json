@@ -1,8 +1,8 @@
 {
   "nivel": "INFO",
-  "servicio": "auth-service",
+  "servicio": "au-service",
   "mensaje": "Iniio de sesión exitoso",
-  "ip_origen": "192.168.1.45",
+  "ip_origen": "192.168.111.45",
   "latencia_ms": 12,
   "version": "4.1.1-release"
 }
