@@ -1,7 +1,9 @@
-  "id_dispositivo": "SN-93",
-  "tipo": "clima",
-  "lecturas": {
-    "temperatura": 22.5,
-    "humedad": 45,
-    "presion": 10777777777777777777713.2
-  },
+{
+  "almacen": "Norte-01",
+  "categoria": "Electrónica",
+  "items": [
+    {"nombre": "Monitpppppppppppppppppppppppppppppppppppor 24p", "stock": 15, "reorden": true},
+    {"nombre": "Teclado RGB", "stock": 50, "reorden": false}
+  ],
+  "ultima_auditoria": "2026-01-01"
+}
