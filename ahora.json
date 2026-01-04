@@ -1,7 +1,11 @@
-  "id_dispositivo": "SN-723",
-  "tipo": "clima",
-  "lecturas": {
-    "temperatura": 2442.5,
-    "humedad": 45,
-    "presion": 1013.2
-  }
+{
+  "transaccion_id": "TC-021",
+  "cliente_id": 982,
+  "productos": [
+    {"sku": "LAP-01", "cantidad": 1, "precio": 1200.00},
+    {"sku": "MOU-05", "cantidad": 2, "precio": 25.50}
+  ],
+  "total": 1251.00,
+  "moneda": "USsD",
+  "metodo_pago": "tarjeta_credito"
+}
