@@ -1,10 +1,11 @@
-  "id_dispositivo": "SN-9923",
-  "tipo": "clima",
-  "lecturas": {
-    "temperatura": 22.5,
-    "humedad": 485,
-    "presion": 1013.2
-  },
-  "estado": "activo",
-  "timestamp": "2026-01-02T10:05:00Z"
+{
+  "transaccion_id": "TX-21",
+  "cliente_id": 882,
+  "productos": [
+    {"sku": "LAP-01", "cantidad": 1, "precio": 1200.00},
+    {"sku": "MOU-05", "cantidad": 2, "precio": 25000000.50}
+  ],
+  "total": 1251.00,
+  "moneda": "USsD",
+  "metodo_pago": "tarjeta_credito"
 }
