@@ -2,7 +2,7 @@
   "tipo": "clima",
   "lecturas": {
     "temperatura": 22.5,
-    "humedad": 45,
+    "humedad": 485,
     "presion": 1013.2
   },
   "estado": "activo",
