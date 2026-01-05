@@ -1,0 +1,11 @@
+{
+  "id_dispositivo": "SB-9923",
+  "tipo": "clima",
+  "lecturas": {
+    "temperatura": 22.5,
+    "humedad": 4777445,
+    "presion": 1013.2
+  },
+  "estado": "activo",
+  "timestamp": "2026-01-02T10:05:00Z mierdoma"
+}
